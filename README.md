@@ -41,7 +41,7 @@ The K-Nearest Neighbour algorithm is a simple, supervised machine learning algor
 
 * Running add_faces.py and then it will prompt "enter you name" to enter new person in database
 * ![Running add_faces.py](https://github.com/user-attachments/assets/f51545d4-e785-4e5f-8dc0-bb8fd9b16683)
-* Enterd The name
+* Entered The name
 * ![capture](https://github.com/user-attachments/assets/7823ff10-adea-4d14-a4d5-45a54194011b)
 * Camera Captures 5 images of person
 * ![attendance](https://github.com/user-attachments/assets/010ff963-9200-462d-8895-edb40cf26e3f)
